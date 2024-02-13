@@ -1,0 +1,36 @@
+/**
+ *
+ * @author Christian F. De Leon
+ */
+import java.util.Scanner;
+public class Focalor111 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner (System.in);
+        System.out.println("Performance Task");
+
+        System.out.println("Insert 1st activity");
+        int x = input.nextInt(); //input 1st
+
+        System.out.println("Insert 2nd activity");
+        int y = input.nextInt(); //input 2nd
+
+        System.out.println("Insert 3rd activity");
+        int z = input.nextInt(); //input 3rd
+        int sum;
+        sum = x + y + z;
+
+
+        float quot;
+        quot = sum / 3;
+
+
+        double perc;
+        perc = sum *.60;
+        System.out.println("The average is: "+quot);
+        System.out.println("The percentage is: "+perc);
+
+
+
+    }
+}
