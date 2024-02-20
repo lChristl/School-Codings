@@ -157,10 +157,10 @@ public class GradingSystem extends javax.swing.JFrame {
          int c = Integer.parseInt(jTextField3.getText());
          int d = Integer.parseInt(jTextField4.getText());
          
-                 int ave = a + b + c + d;
-                 int perc = ave / 4;
+                 int sum = a + b + c + d;
+                 int ave = sum / 4;
                  // outputs
-                 jTextField5.setText(String.valueOf(perc));
+                 jTextField5.setText(String.valueOf(ave));
                  
 
     }//GEN-LAST:event_jButton1ActionPerformed
