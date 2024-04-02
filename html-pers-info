@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Christian</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body bgcolor = "cyan">
+        <h1><font size = "50"><b>COMPROG</b></h1></font><br>
+    <h1><font size = "50"><b>Name: De Leon, Christian F.</b></h1></font><br>
+    <h1><font size = "50"><b>Age: 18</b></h1></font><br>
+    <h1><font size = "50"><b>Course: I.C.T.</b></h1></font><br>
+    <font size = "10">My hobbies are to play games and eat.</font>
+   </body>
+    
+    <marquee scrollamount = "30"><h1>Woop Woop</h1></marquee>
+   
+    
+<font color = "yellow"><font size = "5px">C</font>
+<font color = "red"><font size = "20px"><b>C</b></font>
+<font color = "green"><font size = "20px"><font face = "Chiller"><b>S</b></font>
+<font color = "blue"><font size = "20px"><font face = "Algerian"></font><u><b>T</b></u>
+
+</html>
