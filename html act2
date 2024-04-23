@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Lee Min Ho</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        </head>
+        
+        <img src = "cherry.webp">
+        <style>
+p {
+  background-image: url('bg.avif');
+}
+</style>
+<style>
+body {
+  background-image: url('backg.jpg');
+}
+</style>
+
+    <p>Paragraph</p>
+    <b>bold</b> <i>Italic</i> <u>Underline</u>
+    <h1>Heading</h1>
+    
+    <font face="Times New Roman">MARK</font>
+    <font size="10">MARK</font>
+    <font color="cyan">MARK</font>
+    <marquee scrollamount = "20">Wohoooo</marquee>
+    
+    <marquee
+        direction="down"
+        width="500"
+        height="400"
+        behavior="alternate"
+        style="border:solid">
+        <marquee behavior="alternate"><font size = "5">This text will bounce</font></marquee>    
+
+    
+    <body>
+
+    </body>
+</html>
